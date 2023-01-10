@@ -1,5 +1,5 @@
 <script >
-  import AppTitle from './components/apptitle.vue';
+  import AppTitle from './components/title.vue';
   import jumbo from './components/jumbo.vue'; 
   
   export default{
