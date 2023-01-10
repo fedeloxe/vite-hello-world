@@ -12,7 +12,7 @@ export default{
 
 <template lang="">
     <div>
-        <img :src="url" >
+        <img :src="url" alt="vite">
         
     </div>
 </template>
